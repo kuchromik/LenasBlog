@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div class="list">
+  {{ $pages := where .Site.RegularPages "Section" "posts" }}
+  {{ $pages = $pages.ByDate.Reverse }}
+  {{ range (.Paginate $pages 5).Pages }}
+
+  <div class="listItem">
+    <a href={{.Permalink}}>
+      <img
+      src={{
+      .Params.image
+      }}
+      alt="{{.Title}}"
+      class="listItemImage"
+      loading="lazy"
+    />
+    </a>
+    <div class="listItemTexts">
+      <h1 class="listItemTitle">
+        <a href="{{.Permalink}}">{{.Title}}</a>
+      </h1>
+      <p class="listItemDesc">{{.Params.description}}</p>
+      <div class="listItemDetail">
+        <img src="{{.Params.avatar}}" loading="lazy" alt="" class="listItemAvatar"/>
+        <span>{{ range (.GetTerms "authors")}}
+          {{ .Name }}
+          {{end}}
+        </span>
+        <time>{{ dateFormat .Site.Params.dateFormat  .Date}}</time>
+      </div>
+      <div class="listItemCategories">
+        {{ range (.GetTerms "categories") }}
+        <a class="listItemCategory" href={{ .Permalink }}>{{ .Name }}</a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

@@ -1,0 +1,18 @@
+baseURL = 'https://lenasblog.onrender.com'
+languageCode = 'en-us'
+title = 'Lenas Blog'
+
+
+[params]
+  description = "The fastest blog"
+  dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+  category = "categories"
+  author = "authors"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+enableGitInfo = true
+
