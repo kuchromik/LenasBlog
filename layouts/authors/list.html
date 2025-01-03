@@ -1,7 +1,7 @@
 {{ define "main" }} 
-{{ if eq .RelPermalink "/categories/"}} 
-{{ range $.Site.Taxonomies.categories.ByCount }}
-  <a href="/categories/{{ .Name }}">
+{{ if eq .RelPermalink "/authors/"}} 
+{{ range $.Site.Taxonomies.authors.ByCount }}
+  <a href="/authors/{{ .Name }}">
     # {{ .Name }} <small>({{.Count}})</small>
   </a>
 {{end}}
@@ -9,7 +9,7 @@
 <div class="list">
   {{ $urls := urls.Parse .Permalink }}
   {{ $subs := slice (index (split $urls.Path "/") 2 | humanize) }}
-  <h1 style="margin-bottom: 1rem">All Blogentries with slug  {{ $subs }}</h1>
+  <h1 style="margin-bottom: 1rem">All Blogentries from the author {{ $subs }}</h1>
   {{ range .Paginator.Pages }}
   <div class="listItem">
     <a href={{.Permalink}}>
@@ -42,8 +42,8 @@
         <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
       </div>
       <div class="listItemCategories">
-        {{ range (.GetTerms "tags") }}
-        <a class="listItemCategory" href={{ .Permalink }}>#{{ .Name }}</a>
+        {{ range (.GetTerms "authors") }}
+        <a class="listItemCategory" href={{ .Permalink }}>Author {{ .Name }}</a>
         {{ end }}
       </div>
     </div>

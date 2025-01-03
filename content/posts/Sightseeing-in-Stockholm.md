@@ -5,7 +5,8 @@ draft = false
 description = "Nicest place in town"
 image = "/images/LillaHasselbacken.jpg"
 categories = ["general", "travel", "culture"]
-authors = ["Lena Chromik"]
+tags = ["Stockholm", "Sightseeing"]
+authors = ["LenaChromik"]
 avatar = "/images/avatar.webp"
 
 +++

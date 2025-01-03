@@ -5,7 +5,8 @@ draft = false
 description = "thats what Swedens capital is like"
 image = "/images/PanoramaStockholm.jpg"
 categories = ["general", "travel", "culture"]
-authors = ["Lena Chromik"]
+tags = ["Stockholm", "Sightseeing"]
+authors = ["LenaChromik"]
 avatar = "/images/avatar.webp"
 
 +++

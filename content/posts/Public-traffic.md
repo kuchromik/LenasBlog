@@ -5,7 +5,8 @@ draft = false
 description = "Easy to go"
 image = "/images/PublicTraffic.jpg"
 categories = ["general", "travel", "culture"]
-authors = ["Lena Chromik"]
+tags = ["Stockholm", "traffic"]
+authors = ["LenaChromik"]
 avatar = "/images/avatar.webp"
 
 +++

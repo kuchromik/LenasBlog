@@ -9,6 +9,7 @@ title = 'Lenas Blog'
 
 [taxonomies]
   category = "categories"
+  tag = "tags"
   author = "authors"
 
 [markup.goldmark.renderer]

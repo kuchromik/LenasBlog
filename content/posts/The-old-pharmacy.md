@@ -5,7 +5,8 @@ draft = false
 description = "Books for health"
 image = "/images/AlteApotheke.jpg"
 categories = ["general", "travel", "culture"]
-authors = ["Lena Chromik"]
+tags = ["Stockholm", "MedicalHelp"]
+authors = ["LenaChromik"]
 avatar = "/images/avatar.webp"
 
 +++

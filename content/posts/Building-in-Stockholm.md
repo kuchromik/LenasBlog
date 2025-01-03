@@ -5,7 +5,8 @@ draft = false
 description = "Religion for all"
 image = "/images/Rathaus.jpg"
 categories = ["general", "travel", "culture"]
-authors = ["Lena Chromik"]
+tags = ["Stockholm", "Sightseeing"]
+authors = ["LenaChromik"]
 avatar = "/images/avatar.webp"
 
 +++

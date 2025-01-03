@@ -5,7 +5,8 @@ draft = false
 description = "A Million Books to read"
 image = "/images/Bibliothek.jpg"
 categories = ["general", "travel", "culture"]
-authors = ["Lena Chromik"]
+tags = ["Stockholm", "Sightseeing"]
+authors = ["LenaChromik"]
 avatar = "/images/avatar.webp"
 
 +++

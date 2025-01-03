@@ -5,7 +5,8 @@ draft = false
 description = "Beautyful islands"
 image = "/images/Bootstour.jpg"
 categories = ["general", "travel", "culture"]
-authors = ["Lena Chromik"]
+tags = ["Stockholm", "Boat"]
+authors = ["LenaChromik"]
 avatar = "/images/avatar.webp"
 
 +++
