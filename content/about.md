@@ -9,6 +9,7 @@ layout = "about"
 
 Das ist ein Text aus der Datei content/about.md
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Hier geht es um Schweden. Das Land hat ca. 10 Millionen Einwohner und ist Mitglied der Europäischen Union und der NATO.
+Der Norden des Landes hat eine geringe Bevölkerungsdichte. Die größten Städte sind Stockholm, Göteborg und Malmö.
 
 <a href = "https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet" target = "_blank" style="text-decoration: underline">Markdown-Syntax</a>
