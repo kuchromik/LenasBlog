@@ -14,7 +14,9 @@ avatar = "/images/avatar.webp"
 
 
 
-<img src="/images/Bootstour.jpg" alt="Bootstour"> 
+<img src="https://i.postimg.cc/m2H9H6jX/Bootstour.jpg"> 
+
+<br>
 
 # Most Beautyful Islands in Sweden
 
