@@ -1,8 +1,8 @@
 +++
-title = 'To the North'
-date = 2025-01-12
+title = 'Titel des Posts'
+date = 2025-09-12
 draft = false
-description = "A world full of snow and ice"
+description = "The first post"
 image = "https://i.postimg.cc/KcNGs7zG/IMG-20210210-154613.jpg"
 categories = ["general", "travel"]
 tags = ["Norden", "Schnee"]
@@ -11,7 +11,7 @@ avatar = "/images/avatar.webp"
 
 +++
 
-# A world full of snow and ice
+# Überschrift
 
 <br>
 
@@ -21,4 +21,4 @@ avatar = "/images/avatar.webp"
 <br>
 
 
-vadfgadsfgdfgdasfgsdfgsfgsdfgsdfgsfgs
+Am 27. September geht es endlich los.

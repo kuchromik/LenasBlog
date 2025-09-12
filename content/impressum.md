@@ -5,8 +5,6 @@ layout = "impressum"
 
 # Impressum
 
-<img src="/images/avatar.webp" alt="The Author" style="max-width: 300px;"> 
-
 Lena Chromik
 <br>
 Lippstädter Straße 9-11
