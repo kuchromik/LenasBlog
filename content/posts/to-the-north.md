@@ -21,4 +21,4 @@ avatar = "/images/avatar.webp"
 <br>
 
 
-Am 27. September geht es endlich los.
+Am 27. September geht es los.
