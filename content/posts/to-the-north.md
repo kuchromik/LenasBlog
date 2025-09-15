@@ -7,7 +7,7 @@ image = "https://i.postimg.cc/KcNGs7zG/IMG-20210210-154613.jpg"
 categories = ["general", "travel"]
 tags = ["Norden", "Schnee"]
 authors = ["LenaChromik"]
-avatar = "/images/avatar.webp"
+avatar = "/images/avatar.jpg"
 
 +++
 

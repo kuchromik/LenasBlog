@@ -5,5 +5,5 @@ draft = false
 description = ""
 categories = ["general"]
 authors = ["Lena Chromik"]
-avatar = "/images/avatar.webp"
+avatar = "/images/avatar.jpg"
 +++

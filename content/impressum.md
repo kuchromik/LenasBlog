@@ -5,7 +5,7 @@ layout = "impressum"
 
 # Impressum
 
-Lena Chromik
+L. Chromik
 <br>
 Lippstädter Straße 9-11
 <br>
