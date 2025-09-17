@@ -1,21 +1,11 @@
 {{ define "main" }}
- {{ partial "about" . }}
+ <!--{{ partial "about" . }}-->
 <div class="list">
   {{ $pages := where .Site.RegularPages "Section" "posts" }}
   {{ $pages = $pages.ByDate.Reverse }}
   {{ range (.Paginate $pages 5).Pages }}
 
   <div class="listItem">
-    <a href={{.Permalink}}>
-      <img
-      src={{
-      .Params.image
-      }}
-      alt="{{.Title}}"
-      class="listItemImage"
-      loading="lazy"
-    />
-    </a>
     <div class="listItemTexts">
       <h1 class="listItemTitle">
         <a href="{{.Permalink}}">{{.Title}}</a>

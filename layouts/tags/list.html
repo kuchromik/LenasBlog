@@ -12,16 +12,6 @@
   <h1 style="margin-bottom: 1rem">All Blogentries with # {{ $subs }}</h1>
   {{ range .Paginator.Pages }}
   <div class="listItem">
-    <a href={{.Permalink}}>
-      <img
-        src={{
-        .Params.image
-        }}
-        alt="{{.Title}}"
-        class="listItemImage"
-        loading="lazy"
-      />
-    </a>
     <div class="listItemTexts">
       <h1 class="listItemTitle">
         <a href="{{.Permalink}}">{{.Title}}</a>
