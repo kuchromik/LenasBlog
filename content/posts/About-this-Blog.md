@@ -10,7 +10,7 @@ avatar = "/images/avatar.jpg"
 
 +++
 
-<img src="/images/aelgpark.jpg" alt="EU Logo" style="max-width: 300px;">
+<img src="/images/aelgpark.jpg" alt="EU Logo" style="max-width: 400px;">
 
 ### Wieso, weshalb, warum – mein Erasmus+-Praktikum in Schweden
 Hej allihopa! Ich bin Lena, Auszubildende zur Fachangestellten für Medien- und Informationsdienste (FaMI) im 3. Lehrjahr an der Humboldt-Universität zu Berlin.
