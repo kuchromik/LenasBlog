@@ -10,6 +10,8 @@ avatar = "/images/avatar.jpg"
 
 +++
 
+<img src="/images/aelgpark.jpg" alt="EU Logo" style="max-width: 300px;">
+
 ### Wieso, weshalb, warum – mein Erasmus+-Praktikum in Schweden
 Hej allihopa! Ich bin Lena, Auszubildende zur Fachangestellten für Medien- und Informationsdienste (FaMI) im 3. Lehrjahr an der Humboldt-Universität zu Berlin.
 Im Herbst 2025 werde ich für acht Wochen in Schweden, in der Stadtbibliothek der kleinen Küstenstadt Härnösand, leben und arbeiten. Vom 27. September bis zum 22. November darf ich dort ein Erasmus+-Praktikum absolvieren und in den Arbeitsalltag einer schwedischen Bibliothek eintauchen.
