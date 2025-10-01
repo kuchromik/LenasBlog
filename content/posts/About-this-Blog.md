@@ -2,7 +2,7 @@
 title = 'About this Blog'
 date = 2025-09-17
 draft = false
-description = "First post"
+description = "About this blog"
 categories = ["general"]
 tags = ["Schweden"]
 authors = ["L.Chromik"]
