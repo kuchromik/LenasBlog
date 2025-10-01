@@ -1,5 +1,7 @@
 {{ define "main" }}
  <!--{{ partial "about" . }}-->
+<img src="/images/background2.jpg" alt="background" style="width: 100%; height: auto; object-fit: cover; margin-top: 8px;"/>
+<img src="/images/background.jpg" alt="background" style="width: 100%; height: auto; object-fit: cover; margin-top: 8px;"/>
 <div class="list">
   {{ $pages := where .Site.RegularPages "Section" "posts" }}
   {{ $pages = $pages.ByDate.Reverse }}
