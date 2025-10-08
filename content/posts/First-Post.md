@@ -2,7 +2,7 @@
 title = 'Die ersten Eindrücke'
 date = 2025-09-30
 draft = false
-description = "First post"
+description = ""
 categories = ["general"]
 tags = ["Schweden"]
 authors = ["L.Chromik"]
@@ -12,7 +12,6 @@ avatar = "/images/avatar.jpg"
 
 <img src="/images/IMG_9495.jpg" alt="Bibliothek aussen" style="max-width: 800px;">
 
-### Die ersten Eindrücke
 Mein Weg zu meiner Praktikumsstelle führte mich zunächst nach Stockholm, wo ich eine Nacht blieb, um dann am nächsten Tag die Zugfahrt weiter gen Norden anzutreten. Das Ziel: die kleine Küstenstadt Härnösand. Da es mir in letzter Zeit gesundheitlich nicht perfekt ging, war ich etwas nervös vor der langen Reise. Doch dank Ibuprofen und langsamen Gehen schaffte ich es ohne größere Zwischenfälle (außer ein paar Straßensperrungen und Verlaufen) am frühen Sonntagabend in meinem AirBnB anzukommen. Ich wohne alleine und fühle mich in meiner gar nicht mal so kleinen Wohnung, die nur 10 Minuten Fußweg von der Bibliothek entfernt liegt, sehr geborgen. Nur der erste kleine Schock, die Kosten meines ersten Supermarkteinkaufs, musste noch verdaut werden, bevor es dann am nächsten Tag auf in meinen ersten Arbeitstag des Praktikums ging.
 <br>
 <br>
