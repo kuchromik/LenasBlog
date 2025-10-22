@@ -4,7 +4,7 @@ date = 2025-10-20
 draft = false
 description = "Umeå - Stadt der Birken"
 categories = ["general"]
-tags = ["banned books", "tipsar"]
+tags = ["Umeå", "Bahnfahrt", "Tanz"]
 authors = ["L.Chromik"]
 avatar = "/images/avatar.jpg"
 
