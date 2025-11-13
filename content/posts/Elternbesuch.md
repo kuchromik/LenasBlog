@@ -10,7 +10,7 @@ avatar = "/images/avatar.jpg"
 
 +++
 
-<img src="/images/IMG_0331.jpg" alt="Abbau Aussicht" style="max-width: 800px;">
+<img src="/images/IMG_0331.jpg" alt="Abbau Aussicht" style="max-width: 100%;">
 <br>
 <br>
 
@@ -48,4 +48,5 @@ Diese Woche stand im Zeichen der ”Nordisk Litteraturvecka”. Die nordische Li
 <br>
 <br>
 Heute bereitete ich mit zwei KollegInnen den morgigen Pop-Up in einem Gymnasium in der Nähe vor. Wir schauten uns die Schule an, suchten passende Bücher aus, überlegten uns Aktivitäten, (besorgten Süßigkeiten) etc. Wie das lief, erfahrt ihr beim nächsten Mal! 
-
+<br>
+<br>
