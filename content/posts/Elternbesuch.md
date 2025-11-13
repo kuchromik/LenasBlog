@@ -4,7 +4,7 @@ date = 2025-11-13
 draft = false
 description = "Lichtblicke"
 categories = ["general"]
-tags = ["1", "2", "3"]
+tags = ["Riesenbrücke", "Sandstrand", "Tiere"]
 authors = ["L.Chromik"]
 avatar = "/images/avatar.jpg"
 
