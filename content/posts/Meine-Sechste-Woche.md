@@ -44,3 +44,5 @@ Eine kleine interessante Beobachtung am Rande: Hier tragen (fast) alle im Büro 
 <br>
 <br>
 Man merkt langsam, dass meine Zeit hier sich dem Ende zuneigt. Ich muss mich um einige Dokumente kümmern, und Kolleginnen fragen schon, wann genau ich gehe, und sind dann traurig, dass es so bald ist. Ich bin es auch. Ich fühle mich hier wohl, und der Ort, aber vor allem die Bibliothek und meine KollegInnen sind mir ans Herz gewachsen. Langsam fange ich an, wieder an Berlin und mein normales Leben zu denken. Ich plane Arzttermine, Freunde treffen, Theaterbesuche, Weihnachtsgeschenke, und und und. Bald ist meine Zeit hier zu Ende, und auf eine Art will ich noch gar nicht gehen.
+<br>
+<br>

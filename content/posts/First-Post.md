@@ -25,3 +25,5 @@ Mit pochendem Herzen und wie immer vor für mich aufregenden Momenten, viel zu f
 <br>
 <br>
 Ich wurde von der Bibliotheksdirektorin und der Strategie-Planerin, mit der ich bisher den E-Mail Kontakt pflegte, aus dem Foyer abgeholt und in Empfang genommen. Danach verblasst meine Erinnerung an konkrete Ereignisse, denn es passierte so viel auf einmal. Ich lernte viele viele wirklich nette Menschen kennen, schüttelte mindestens ein Dutzend Hände, lief durch Etagen und Räume, hospitierte hier und da, kam mit diesem und jenem ins Gespräch, lernte neue englische und schwedische Begriffe, versuchte mir die wichtigsten Details zu merken, und gleichzeitig nicht zu vergessen, interessiert zu nicken und Fragen zu stellen, während mir alles vom Thekendienst über die Bibliotheksprogramme bis hin zur Arbeit der Jugendbibliothek erklärt wurde. Kurz bevor mein Kopf explodierte, wurde ich dann in den Feierabend geschickt. Mit brummendem Kopf, aber einem guten Gefühl, stolperte ich nach Hause, und gab meinem Gehirn die Chance, all die Eindrücke zu verarbeiten.
+<br>
+<br>

@@ -28,3 +28,5 @@ Ich hoffe, dass mich dieses Praktikum sowohl beruflich als auch persönlich weit
 ### Worauf ich mich freue – und was mir (ein ganz kleines bisschen) Angst macht
 Am meisten freue ich mich darauf, für eine Weile ein „normales Leben“ in Schweden zu führen. Nicht nur als Touristin, sondern mitten im Alltag einer kleinen Stadt. Ich möchte mich vor Ort integrieren, neue Menschen kennenlernen, neue Routinen entwickeln und ein Gefühl für das Leben in einem anderen Land bekommen.
 Natürlich habe ich auch Respekt vor dieser Zeit: davor, mich anfangs vielleicht einsam zu fühlen, nicht sofort zurechtzufinden oder nicht gleich gut aufgenommen zu werden. Aber ich glaube, dass genau solche Herausforderungen einen wachsen lassen und bin gespannt, wie ich daran über mich hinauswachsen kann.
+<br>
+<br>

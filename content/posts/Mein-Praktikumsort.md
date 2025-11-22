@@ -38,3 +38,5 @@ Das Haus, in dem die Bibliothek untergebracht ist, beherbergt auch Abteilungen 
 <br>
 <br>
 Was mich besonders beeindruckt, und sich von den Bibliotheken, die ich aus Deutschland kenne, unterscheidet, ist, dass die Nutzung ist komplett kostenlos ist, und es keine Mahngebühren gibt. Dieses offene und inklusive Konzept finde ich sehr fortschrittlich. Und das Beste: Es funktioniert, und ermöglicht das Existieren eines Ortes, der Wissen, Unterhaltung, Begegnung und Teilhabe für alle bereitstellt.
+<br>
+<br>
