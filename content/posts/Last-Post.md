@@ -10,7 +10,7 @@ avatar = "/images/avatar.jpg"
 
 +++
 
-Nun sitze ich am Flughafen und warte auf meinen Flug nach Berlin. Durch meinen Kopf jagen seit Tagen viele Gedanken und Emotionen. Die letzten Wochen waren viel, auf jeder Ebene. Ich habe in meinen KollegIinnen FreundInnen gefunden, in Härnösand ein Zuhause, viel Selbstbestätigung und Selbstbewusstsein gewonnen, meine Arbeit wurde wertgeschätzt, ich bin Teil des Teams geworden. Die letzten Wochen vergingen wie im Flug, wie im Flug auf Überschallgeschwindigkeit sogar.
+Nun sitze ich am Flughafen und warte auf meinen Flug nach Berlin. Durch meinen Kopf jagen seit Tagen viele Gedanken und Emotionen. Die letzten Wochen waren viel, auf jeder Ebene. Ich habe in meinen KollegInnen FreundInnen gefunden, in Härnösand ein Zuhause, viel Selbstbestätigung und Selbstbewusstsein gewonnen, meine Arbeit wurde wertgeschätzt, ich bin Teil des Teams geworden. Die letzten Wochen vergingen wie im Flug, wie im Flug auf Überschallgeschwindigkeit sogar.
 <br>
 <br>
 Am letzten Wochenende besuchte mich eine gute Freundin. Wir kochten, froren uns am Strand den Allerwertesten ab, und machten einen Ausflug nach Gävle, einer Stadt ein paar Stunden südlich von Härnösand, um auf ein Konzert einer ihrer Lieblingsbands zu gehen. Ab dann war es echt kalt hier im Norden. Die gefühlte Temperatur lag oft bei -13 Grad, die Luft war klar und crisp und Tag um Tag gewöhnte ich mich mehr daran, genoss diese klirrende Kälte und den Sternenhimmel, sah sogar ein paar Sternschnuppen. 
