@@ -1,4 +1,4 @@
-baseURL = 'https://lenasblog.onrender.com'
+baseURL = 'https://lenasblog.netlify.app'
 languageCode = 'en-us'
 title = 'Lenas Blog'
 
