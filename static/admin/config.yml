@@ -16,3 +16,5 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Authors', name: 'authors', widget: 'list', default: [] }
+      - { label: 'Avatar', name: 'avatar', widget: 'image', default: '' }
